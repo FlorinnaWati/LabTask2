@@ -1,0 +1,14 @@
+c:\users\huawei\documents\visual studio 2015\Projects\SparePart\SparePart\bin\Debug\SparePart.exe.config
+c:\users\huawei\documents\visual studio 2015\Projects\SparePart\SparePart\bin\Debug\SparePart.exe
+c:\users\huawei\documents\visual studio 2015\Projects\SparePart\SparePart\bin\Debug\SparePart.pdb
+c:\users\huawei\documents\visual studio 2015\Projects\SparePart\SparePart\bin\Debug\SparePart.xml
+c:\users\huawei\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.vbprojResolveAssemblyReference.cache
+c:\users\huawei\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.Form1.resources
+c:\users\huawei\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.Resources.resources
+c:\users\huawei\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.SplashScreen1.resources
+c:\users\huawei\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.vbproj.GenerateResource.Cache
+c:\users\huawei\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.exe
+c:\users\huawei\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.xml
+c:\users\huawei\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.pdb
+c:\users\huawei\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.AboutBox1.resources
+c:\users\huawei\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.Form2.resources
